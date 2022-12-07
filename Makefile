@@ -7,7 +7,6 @@ OBJ		= ${SRC:.c=.o}
 all: $(NAME)
 
 $(NAME): $(OBJ)
-	@gcc -c $(CFLAGS) $(SRC)
 	@$(AR) $(NAME) $(OBJ)
 	@echo 🔥 🔥 Compliling Everything ✅ ✅
 
@@ -23,4 +22,4 @@ fclean: clean
 
 re: fclean all
 
-.PHONY: all clean fclean re bonus
+.PHONY: all clean fclean re
