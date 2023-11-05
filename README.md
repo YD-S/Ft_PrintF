@@ -27,15 +27,15 @@ To use `ft_printf` in your project, follow these steps:
 ## Format Specifiers
 `ft_printf` supports the following format specifiers:
 
-`%c`: Character
-`%s`: String
-`%p`: Pointer
-`%d` or `%i`: Signed decimal integer
-`%u`: Unsigned decimal integer
-`%x`: Hexadecimal representation (lowercase)
-`%X`: Hexadecimal representation (uppercase)
-`%o`: Octal representation
-`%f`: Floating-point representation
+* `%c`: Character
+* `%s`: String
+* `%p`: Pointer
+* `%d` or `%i`: Signed decimal integer
+* `%u`: Unsigned decimal integer
+* `%x`: Hexadecimal representation (lowercase)
+* `%X`: Hexadecimal representation (uppercase)
+* `%o`: Octal representation
+* `%f`: Floating-point representation
 
 ## Compilation
 The project can be compiled using the provided Makefile. Simply run:
