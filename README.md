@@ -3,7 +3,7 @@
 
 ## About
 
-`ft_printf` is a project at [42](https://www.42.fr/) that involves implementing a simplified version of the standard C library function `printf`. The goal is to parse and format various types of data and output the formatted result to the standard output. This project aims to deepen your understanding of variadic functions and string manipulation.
+> `ft_printf` is a project at [42](https://www.42.fr/) that involves implementing a simplified version of the standard C library function `printf`. The goal is to parse and format various types of data and output the formatted result to the standard output. This project aims to deepen your understanding of variadic functions and string manipulation.
 
 ## Usage
 
